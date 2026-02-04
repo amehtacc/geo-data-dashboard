@@ -1,1 +1,247 @@
-[]
+[
+  {
+    "id": 1,
+    "projectName": "Solar Grid Alpha",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "status": "Active",
+    "lastUpdated": "2025-11-10"
+  },
+  {
+    "id": 2,
+    "projectName": "Wind Farm Delta",
+    "latitude": 19.076,
+    "longitude": 72.8777,
+    "status": "Inactive",
+    "lastUpdated": "2025-10-02"
+  },
+  {
+    "id": 3,
+    "projectName": "Hydro Plant Gamma",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "status": "Active",
+    "lastUpdated": "2025-09-18"
+  },
+  {
+    "id": 4,
+    "projectName": "Smart City Infra",
+    "latitude": 22.5726,
+    "longitude": 88.3639,
+    "status": "Active",
+    "lastUpdated": "2025-08-22"
+  },
+  {
+    "id": 5,
+    "projectName": "Metro Expansion Phase 2",
+    "latitude": 23.0225,
+    "longitude": 72.5714,
+    "status": "Inactive",
+    "lastUpdated": "2025-07-15"
+  },
+
+  {
+    "id": 6,
+    "projectName": "EV Charging Network",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "status": "Active",
+    "lastUpdated": "2025-11-01"
+  },
+  {
+    "id": 7,
+    "projectName": "Airport Modernization",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "status": "Active",
+    "lastUpdated": "2025-10-11"
+  },
+  {
+    "id": 8,
+    "projectName": "Water Treatment Plant",
+    "latitude": 26.9124,
+    "longitude": 75.7873,
+    "status": "Inactive",
+    "lastUpdated": "2025-09-09"
+  },
+  {
+    "id": 9,
+    "projectName": "Logistics Hub East",
+    "latitude": 17.385,
+    "longitude": 78.4867,
+    "status": "Active",
+    "lastUpdated": "2025-08-01"
+  },
+  {
+    "id": 10,
+    "projectName": "IT Park Expansion",
+    "latitude": 12.2958,
+    "longitude": 76.6394,
+    "status": "Active",
+    "lastUpdated": "2025-07-25"
+  },
+
+  {
+    "id": 11,
+    "projectName": "Smart Highway Project",
+    "latitude": 30.7333,
+    "longitude": 76.7794,
+    "status": "Inactive",
+    "lastUpdated": "2025-06-20"
+  },
+  {
+    "id": 12,
+    "projectName": "Urban Housing Scheme",
+    "latitude": 25.5941,
+    "longitude": 85.1376,
+    "status": "Active",
+    "lastUpdated": "2025-05-14"
+  },
+  {
+    "id": 13,
+    "projectName": "Green Energy Park",
+    "latitude": 21.1458,
+    "longitude": 79.0882,
+    "status": "Active",
+    "lastUpdated": "2025-04-30"
+  },
+  {
+    "id": 14,
+    "projectName": "Industrial Corridor",
+    "latitude": 24.5854,
+    "longitude": 73.7125,
+    "status": "Inactive",
+    "lastUpdated": "2025-03-19"
+  },
+  {
+    "id": 15,
+    "projectName": "Port Development",
+    "latitude": 15.2993,
+    "longitude": 74.124,
+    "status": "Active",
+    "lastUpdated": "2025-02-28"
+  },
+
+  {
+    "id": 16,
+    "projectName": "Data Center South",
+    "latitude": 9.9312,
+    "longitude": 76.2673,
+    "status": "Active",
+    "lastUpdated": "2025-01-16"
+  },
+  {
+    "id": 17,
+    "projectName": "Rural Broadband Mission",
+    "latitude": 27.1767,
+    "longitude": 78.0081,
+    "status": "Inactive",
+    "lastUpdated": "2023-12-05"
+  },
+  {
+    "id": 18,
+    "projectName": "Railway Electrification",
+    "latitude": 26.8467,
+    "longitude": 80.9462,
+    "status": "Active",
+    "lastUpdated": "2023-11-14"
+  },
+  {
+    "id": 19,
+    "projectName": "Flood Control System",
+    "latitude": 22.7196,
+    "longitude": 75.8577,
+    "status": "Inactive",
+    "lastUpdated": "2023-10-09"
+  },
+  {
+    "id": 20,
+    "projectName": "Renewable Storage Facility",
+    "latitude": 11.0168,
+    "longitude": 76.9558,
+    "status": "Active",
+    "lastUpdated": "2023-09-01"
+  },
+
+  {
+    "id": 21,
+    "projectName": "City Surveillance Upgrade",
+    "latitude": 28.7041,
+    "longitude": 77.1025,
+    "status": "Active",
+    "lastUpdated": "2025-11-12"
+  },
+  {
+    "id": 22,
+    "projectName": "Smart Drainage System",
+    "latitude": 23.2599,
+    "longitude": 77.4126,
+    "status": "Inactive",
+    "lastUpdated": "2025-10-18"
+  },
+  {
+    "id": 23,
+    "projectName": "Digital Education Network",
+    "latitude": 20.2961,
+    "longitude": 85.8245,
+    "status": "Active",
+    "lastUpdated": "2025-09-26"
+  },
+  {
+    "id": 24,
+    "projectName": "Healthcare Infra Upgrade",
+    "latitude": 26.4499,
+    "longitude": 74.6399,
+    "status": "Inactive",
+    "lastUpdated": "2025-08-14"
+  },
+  {
+    "id": 25,
+    "projectName": "Waste Management Plant",
+    "latitude": 19.2183,
+    "longitude": 72.9781,
+    "status": "Active",
+    "lastUpdated": "2025-07-03"
+  },
+
+  {
+    "id": 26,
+    "projectName": "Solar Rooftop Initiative",
+    "latitude": 24.879,
+    "longitude": 74.629,
+    "status": "Active",
+    "lastUpdated": "2025-06-01"
+  },
+  {
+    "id": 27,
+    "projectName": "Riverfront Development",
+    "latitude": 21.1702,
+    "longitude": 72.8311,
+    "status": "Inactive",
+    "lastUpdated": "2025-05-09"
+  },
+  {
+    "id": 28,
+    "projectName": "AI Research Hub",
+    "latitude": 12.9141,
+    "longitude": 74.856,
+    "status": "Active",
+    "lastUpdated": "2025-04-17"
+  },
+  {
+    "id": 29,
+    "projectName": "Smart Grid West",
+    "latitude": 23.3441,
+    "longitude": 85.3096,
+    "status": "Inactive",
+    "lastUpdated": "2025-03-02"
+  },
+  {
+    "id": 30,
+    "projectName": "Green Transport Corridor",
+    "latitude": 34.0837,
+    "longitude": 74.7973,
+    "status": "Active",
+    "lastUpdated": "2025-02-10"
+  }
+]
